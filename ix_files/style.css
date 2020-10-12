@@ -13,8 +13,8 @@ p { margin: 10px }
 #page-main { max-width: 480px; margin: 0 auto; border-radius: 12px; box-shadow: 0 0 2px 1px #555 }
 
 /* HEADER */
-#page-header { padding: 10px 5px; background: #08c901; font-size: 14px; color: #ffffff; text-shadow: 1px 1px #444444; border-bottom: 1px solid #888; border-radius: 12px 12px 0 0; font-family: Verdana, Sans-serif }
-#thankyou-page-header { padding: 10px 5px; background: #08c901; font-size: 14px; color: #ffffff; text-shadow: 1px 1px #444444; border-bottom: 1px solid #888; border-radius: 12px 12px 0 0; font-family: Verdana, Sans-serif }
+#page-header { padding: 10px 5px; background: #b92b27; font-size: 14px; color: #ffffff; text-shadow: 1px 1px #444444; border-bottom: 1px solid #888; border-radius: 12px 12px 0 0; font-family: Verdana, Sans-serif }
+#thankyou-page-header { padding: 10px 5px; background: #b92b27; font-size: 14px; color: #ffffff; text-shadow: 1px 1px #444444; border-bottom: 1px solid #888; border-radius: 12px 12px 0 0; font-family: Verdana, Sans-serif }
 
 /* CONTENT */
 #page-container { padding: 10px; background: #ffffff }
